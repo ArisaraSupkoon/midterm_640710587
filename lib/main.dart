@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Calculator',
       debugShowCheckedModeBanner: false,
       home: const CalculatorScreen(),
+      
     );
   }
 }
